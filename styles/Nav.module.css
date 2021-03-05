@@ -1,0 +1,25 @@
+.nav {
+  position: fixed;
+  left: -20px;
+  top: 30px;
+  z-index: 9999;
+  height: 50px;
+  padding: 10px;
+  background: #000;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+
+.nav ul li a {
+  display: block;
+  margin: 5px 15px;
+}
