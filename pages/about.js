@@ -23,7 +23,7 @@ const About = () => {
         </li>
         <li>
           <p>
-            <strong>dependencies</strong>
+            <strong>Dependencies</strong>
             <br />
             "next": "10.0.5"
             <br />
@@ -33,6 +33,19 @@ const About = () => {
             <br />
             "opensheetmusicdisplay": "^0.9.5"
           </p>
+        </li>
+        <li>
+          <strong>API</strong> <br />
+          (not used internally, just for demonstration) <br />
+          Fetches score files (xml) from OSMD site and serves <br />
+          <br />
+          <strong>Endpoints</strong>:
+          <br />
+          /api/scores
+          <br />
+          /api/scores/:id
+          <br />
+          /api/files/:id
         </li>
       </ul>
       <hr />
