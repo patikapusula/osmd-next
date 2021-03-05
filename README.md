@@ -1,4 +1,4 @@
-# OpenSheetMusicDisplay (OSMD) meets Next.js
+## OpenSheetMusicDisplay (OSMD) meets Next.js
 
 References :
 

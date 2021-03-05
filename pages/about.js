@@ -23,7 +23,7 @@ const About = () => {
         </li>
         <li>
           <p>
-            <strong>dependencies:</strong>
+            <strong>dependencies</strong>
             <br />
             "next": "10.0.5"
             <br />
